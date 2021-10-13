@@ -1,0 +1,151 @@
+body {
+  color: #40514e;
+  margin: 0;
+  font-family: "Josefin Slab", serif;
+  text-align: center;
+}
+
+/* Font
+font-family: 'Caveat', cursive;
+font-family: 'Josefin Slab', serif;
+font-family: 'Raleway', sans-serif; */
+
+p {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 2;
+}
+
+h1 {
+  color: #11999e;
+  margin: 0;
+  margin-top: 70px;
+  font-size: 5.62rem;
+  font-family: "Caveat", cursive;
+}
+
+h2 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #11999e;
+  font-size: 1.3rem;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color: #a2b9bc;
+  width: 10%;
+  margin: 100px auto;
+}
+
+a {
+  color: #ffffff;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #11999e;
+}
+
+.copyright {
+  color: black;
+  font-size: 1.1rem;
+  width: 50%;
+  margin: auto;
+  padding: 20px 0;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.h2 {
+  margin: 0 auto 90px auto;
+}
+
+.code {
+  width: 80%;
+  margin: 10px;
+}
+
+.traveler {
+  width: 80%;
+  margin: 10px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 90px auto;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 90px auto;
+  text-align: right;
+}
+
+.top-container {
+  background-color: #d7e9f7;
+  position: relative;
+  padding-top: 100px;
+  font-family: "Raleway", sans-serif;
+  font-weight: bolder;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 9%;
+  right: 20%;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 18%;
+  bottom: 40%;
+}
+
+.contact-me {
+  width: 40%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  -webkit-border-radius: 81px;
+  -moz-border-radius: 81px;
+  border-radius: 81px;
+  color: #ffffff;
+  font-family: "Josefin Slab", serif;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 19px;
+  background-color: #66bfbf;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #11999e;
+  color: #ffffff;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  border-radius: 80px;
+  text-decoration: none;
+}
